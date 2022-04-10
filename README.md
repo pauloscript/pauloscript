@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pauloscript
 - 👀 I’m interested in data and more data
-- 🌱 I’m currently learning Oracle Database, Data Analysis and other things
+- 🌱 I’m currently learning SQL Server, Data Analysis and other things
 
 <!---
 pauloscript/pauloscript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
